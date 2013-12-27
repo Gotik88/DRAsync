@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Tasks", "DR.Async.Tasks\DR.Async.Tasks.csproj", "{15D23033-14CA-4C2C-9B29-56D4A0FAFB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Demo.Console", "DR.Async.TestConsole\DR.Async.Demo.Console.csproj", "{9997E7C0-08A2-43E2-87D9-A19286709A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Demo.Infrastructure", "DR.Async.Demo.Infrastructure\DR.Async.Demo.Infrastructure.csproj", "{AD55C83B-9E30-4E54-8B54-CDB1791117E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Demo.WPF", "DR.Async.Demo.WPF\DR.Async.Demo.WPF.csproj", "{CA58174F-DBF8-46E1-8A95-65034C73B052}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo", "Demo", "{45C9AE97-CF3D-401A-9A6C-3408239DE3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Demo.WindowsForms", "DR.Async.Demo.WindowsForms\DR.Async.Demo.WindowsForms.csproj", "{CE21D671-8899-4736-BB1C-EE2D07F33FCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task", "Task", "{657EB1C4-855B-4853-A3CE-69BAA2AA5563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Async.Task.Helpers", "DR.Async.Task.Helpers\DR.Async.Task.Helpers.csproj", "{7F52B2CB-FCEF-490E-B05D-0CB5328703B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D23033-14CA-4C2C-9B29-56D4A0FAFB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D23033-14CA-4C2C-9B29-56D4A0FAFB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D23033-14CA-4C2C-9B29-56D4A0FAFB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D23033-14CA-4C2C-9B29-56D4A0FAFB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9997E7C0-08A2-43E2-87D9-A19286709A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9997E7C0-08A2-43E2-87D9-A19286709A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9997E7C0-08A2-43E2-87D9-A19286709A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9997E7C0-08A2-43E2-87D9-A19286709A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD55C83B-9E30-4E54-8B54-CDB1791117E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD55C83B-9E30-4E54-8B54-CDB1791117E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD55C83B-9E30-4E54-8B54-CDB1791117E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD55C83B-9E30-4E54-8B54-CDB1791117E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA58174F-DBF8-46E1-8A95-65034C73B052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA58174F-DBF8-46E1-8A95-65034C73B052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA58174F-DBF8-46E1-8A95-65034C73B052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA58174F-DBF8-46E1-8A95-65034C73B052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE21D671-8899-4736-BB1C-EE2D07F33FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE21D671-8899-4736-BB1C-EE2D07F33FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE21D671-8899-4736-BB1C-EE2D07F33FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE21D671-8899-4736-BB1C-EE2D07F33FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F52B2CB-FCEF-490E-B05D-0CB5328703B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F52B2CB-FCEF-490E-B05D-0CB5328703B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F52B2CB-FCEF-490E-B05D-0CB5328703B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F52B2CB-FCEF-490E-B05D-0CB5328703B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9997E7C0-08A2-43E2-87D9-A19286709A41} = {45C9AE97-CF3D-401A-9A6C-3408239DE3F6}
+		{AD55C83B-9E30-4E54-8B54-CDB1791117E8} = {45C9AE97-CF3D-401A-9A6C-3408239DE3F6}
+		{CA58174F-DBF8-46E1-8A95-65034C73B052} = {45C9AE97-CF3D-401A-9A6C-3408239DE3F6}
+		{CE21D671-8899-4736-BB1C-EE2D07F33FCE} = {45C9AE97-CF3D-401A-9A6C-3408239DE3F6}
+		{15D23033-14CA-4C2C-9B29-56D4A0FAFB10} = {657EB1C4-855B-4853-A3CE-69BAA2AA5563}
+		{7F52B2CB-FCEF-490E-B05D-0CB5328703B0} = {657EB1C4-855B-4853-A3CE-69BAA2AA5563}
+	EndGlobalSection
+EndGlobal

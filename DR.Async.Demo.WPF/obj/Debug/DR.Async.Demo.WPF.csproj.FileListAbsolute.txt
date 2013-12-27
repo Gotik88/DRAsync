@@ -1,0 +1,12 @@
+C:\Projects\DR.Async\DR.Async.Demo.WPF\bin\Debug\DR.Async.Demo.WPF.exe.config
+C:\Projects\DR.Async\DR.Async.Demo.WPF\bin\Debug\DR.Async.Demo.WPF.exe
+C:\Projects\DR.Async\DR.Async.Demo.WPF\bin\Debug\DR.Async.Demo.WPF.pdb
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\MainWindow.baml
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\MainWindow.g.cs
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\App.g.cs
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF_MarkupCompile.cache
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF.g.resources
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF.Properties.Resources.resources
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF.csproj.GenerateResource.Cache
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF.exe
+C:\Projects\DR.Async\DR.Async.Demo.WPF\obj\Debug\DR.Async.Demo.WPF.pdb

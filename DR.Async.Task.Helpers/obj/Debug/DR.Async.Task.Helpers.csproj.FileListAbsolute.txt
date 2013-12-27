@@ -1,0 +1,15 @@
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\DR.Async.Task.Helpers.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\DR.Async.Task.Helpers.pdb
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\obj\Debug\DR.Async.Task.Helpers.dll
+C:\Projects\DR.Async\DR.Async.Task.Helpers\obj\Debug\DR.Async.Task.Helpers.pdb

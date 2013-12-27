@@ -1,0 +1,4 @@
+C:\Projects\DR.Async\DR.Async.Tasks\bin\Debug\DR.Async.Tasks.dll
+C:\Projects\DR.Async\DR.Async.Tasks\bin\Debug\DR.Async.Tasks.pdb
+C:\Projects\DR.Async\DR.Async.Tasks\obj\Debug\DR.Async.Tasks.dll
+C:\Projects\DR.Async\DR.Async.Tasks\obj\Debug\DR.Async.Tasks.pdb

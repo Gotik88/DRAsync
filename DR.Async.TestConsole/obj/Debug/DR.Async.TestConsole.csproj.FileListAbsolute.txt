@@ -1,0 +1,8 @@
+C:\Projects\DR.Async\DR.Async.TestConsole\bin\Debug\DR.Async.TestConsole.exe.config
+C:\Projects\DR.Async\DR.Async.TestConsole\bin\Debug\DR.Async.TestConsole.exe
+C:\Projects\DR.Async\DR.Async.TestConsole\bin\Debug\DR.Async.TestConsole.pdb
+C:\Projects\DR.Async\DR.Async.TestConsole\bin\Debug\DR.Async.Tasks.dll
+C:\Projects\DR.Async\DR.Async.TestConsole\bin\Debug\DR.Async.Tasks.pdb
+C:\Projects\DR.Async\DR.Async.TestConsole\obj\Debug\DR.Async.TestConsole.csprojResolveAssemblyReference.cache
+C:\Projects\DR.Async\DR.Async.TestConsole\obj\Debug\DR.Async.TestConsole.exe
+C:\Projects\DR.Async\DR.Async.TestConsole\obj\Debug\DR.Async.TestConsole.pdb

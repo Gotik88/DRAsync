@@ -1,0 +1,7 @@
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\bin\Debug\DR.Async.Demo.WindowsForms.exe.config
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\bin\Debug\DR.Async.Demo.WindowsForms.exe
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\bin\Debug\DR.Async.Demo.WindowsForms.pdb
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\obj\Debug\DR.Async.Demo.WindowsForms.Properties.Resources.resources
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\obj\Debug\DR.Async.Demo.WindowsForms.csproj.GenerateResource.Cache
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\obj\Debug\DR.Async.Demo.WindowsForms.exe
+C:\Projects\DR.Async\DR.Async.Demo.WindowsForms\obj\Debug\DR.Async.Demo.WindowsForms.pdb
